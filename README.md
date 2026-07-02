@@ -19,11 +19,14 @@
   <a href="https://github.com/Saber5656" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://saber5656.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Website-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" />
+  <a href="https://x.com/Saber5656" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://zenn.dev/saber5656" target="_blank">
+    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
+  </a>
+  <a href="https://qiita.com/Saber5656" target="_blank">
+    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
   </a>
 </div>
 
